@@ -1448,6 +1448,7 @@ section > .container-fluid {
 }
 .header-nav .header-nav-wrapper .menuzord {
   padding: 0;
+  margin-left: 250px;
 }
 /* -------- Menuzord ---------- */
 .menuzord-menu > li.home > a > i {
