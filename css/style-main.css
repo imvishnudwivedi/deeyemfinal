@@ -1008,6 +1008,7 @@ section > .container-fluid {
 /* -------- Custom theme style ---------- */
 .header-nav .header-nav-wrapper .menuzord {
   padding: 0;
+  margin-left: 255px;
 }
 /* Transparent Header */
 .header {
